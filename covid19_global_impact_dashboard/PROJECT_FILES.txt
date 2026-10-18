@@ -1,0 +1,9 @@
+Project files
+------------
+app.py                      Interactive Streamlit dashboard
+analysis.py                 Cleaning and metric-engineering pipeline
+download_data.py            OWID public-data downloader
+requirements.txt             Python dependencies
+data/covid_demo_data.csv     Illustrative offline demo data (not factual)
+executive_summary.pdf        One-page executive summary
+README.md                    Setup, assumptions, and analysis guidance
